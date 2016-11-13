@@ -1,0 +1,3 @@
+add_lunch_combo iZi_kenzo-user
+add_lunch_combo iZi_kenzo-eng
+add_lunch_combo iZi_kenzo-userdebug
