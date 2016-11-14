@@ -105,7 +105,8 @@ PRODUCT_COPY_FILES += \
 
 # Camera
 PRODUCT_PACKAGES += \
-    Camera2
+    Snap \
+    camera.msm8952
 
 # Connectivity Engine support (CNE)
 PRODUCT_PACKAGES += \

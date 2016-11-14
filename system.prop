@@ -34,7 +34,9 @@ bluetooth.hfp.client=1
 qcom.bluetooth.soc=smd
 
 # Camera
-persist.camera.HAL3.enabled=1
+persist.camera.HAL3.enabled=0
+media.stagefright.legacyencoder=true
+media.stagefright.less-secure=true
 
 # CNE/DPM
 persist.cne.feature=1
