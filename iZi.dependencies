@@ -6,8 +6,8 @@
    "branch": "nougat"
  },
  {
-   "repository": "danielpinto8zz6/proprietary_vendor_xiaomi",
-   "target_path": "vendor/xiaomi",
+   "repository": "danielpinto8zz6/android_vendor_xiaomi_kenzo",
+   "target_path": "vendor/xiaomi/kenzo",
    "remote": "github",
    "branch": "nougat"
  }
